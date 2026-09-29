@@ -19,7 +19,7 @@ st.write(
 # --------------------------------------------------
 # 데이터 불러오기
 # --------------------------------------------------
-DATA_URL = "https://raw.githubusercontent.com/greatsong/modudata/main/data/kobis_daily.csv"
+DATA_URL = "https://raw.githubusercontent.com/happykth/data/main/kobis_daily.csv"
 
 df = pd.read_csv(DATA_URL)
 
